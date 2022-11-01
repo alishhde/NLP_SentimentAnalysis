@@ -1,4 +1,4 @@
-# NLP_SentimentAnalysis
+# Natural Language Processin - Sentiment Analysis
 
 The notebook existing here, is an implementation of Logistic Regression algorithm in Natural Language Processing, To classify the tweets based on their sentiment.
 
