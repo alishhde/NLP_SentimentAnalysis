@@ -1,4 +1,4 @@
-# Natural Language Processin - Sentiment Analysis
+# Natural Language Processing - Sentiment Analysis
 
 As it appears from the name of the each notebook, I have implemented Naive Bayes and Logistice Regression algorithms to analyse the sentiment of tweets.
 
